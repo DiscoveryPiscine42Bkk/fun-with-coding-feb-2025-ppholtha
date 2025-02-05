@@ -1,1 +1,2 @@
-echo 42
+#!/bin/bash
+ls -1 | wc -l
